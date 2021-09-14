@@ -1,0 +1,17 @@
+Lookup:Stage
+6=The Streets of Springfield
+7=Krustyland Amusement Park
+8=Springfield Museum of Natural History
+9=The Springfield Shopping Mall
+10=Springfield Nuclear Power Plant
+
+Format:Value
+FormatType=VALUE
+
+Display:
+?0xh2e=0?📺 Title Screen 📺
+?0xh2e=1?📺 Title Screen 📺
+?0xh2e=2?📽️ Cutscene 📽️
+?0xh2e=3?📽️ Cutscene 📽️
+?0xh2e=4?📽️ Cutscene 📽️
+Bart in @Stage(0xh2e) ❤ @Value(0xh662*10_0xh663) 💰 @Value(0xh584) ⏰ @Value(0xh669*100_0xh66a*10_0xh66b) 🚩 @Value(0xh665*10_0xh666)
